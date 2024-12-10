@@ -46,3 +46,10 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 - 💼 [LinkedIn](https://in.linkedin.com/in/abinash-pradhan-a42157297)
 - ✉️ [Email](mailto:teamap13@gmail.com)
 - 🌐 **Website**: *(Coming Soon)*
+
+
+### 💻 Projects
+
+- **[Project Name](source-code-link)**  
+  *Brief description of the project.*  
+  [Live Demo](live-link)
