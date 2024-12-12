@@ -42,6 +42,31 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 
 ---
 
+### 🚀 About Me:
+Hi! I'm **Abinash Pradhan**, a passionate developer exploring the world of code and open-source. 🌟
+
+---
+
+### 📈 GitHub Stats & Streak:
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=abinashpradhan01&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abinashpradhan01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashpradhan01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+
 ### 🤝 Connect with Me
 - 💼 [LinkedIn](https://in.linkedin.com/in/abinash-pradhan-a42157297)
 - ✉️ [Email](mailto:teamap13@gmail.com)
