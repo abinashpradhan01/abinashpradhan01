@@ -42,10 +42,6 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 
 ---
 
-### 🚀 About Me:
-Hi! I'm **Abinash Pradhan**, a passionate developer exploring the world of code and open-source. 🌟
-
----
 
 ### 📈 GitHub Stats & Streak:
 
