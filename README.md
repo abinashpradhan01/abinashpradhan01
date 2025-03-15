@@ -38,7 +38,7 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 
 ### 🚀 My Projects
 
-1. **[Iris Flower Classification](https://github.com/abinashpradhan01/IRIS_FLOWER_CLASSIFICATION)**
+1. **[Iris Flower Classification](https://github.com/abinashpradhan01/ML_Projects/tree/main/IRIS_FLOWER_CLASSIFICATION)**
    - A machine learning solution for classifying Iris flowers using:
      - K-Nearest Neighbors (KNN) for classification
      - Decision Tree for feature importance
@@ -47,7 +47,7 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
    - Technologies: Python, Scikit-learn, Streamlit
    - [Live Demo](https://mlprojects-84fctxn26daoh28s6ueieg.streamlit.app/)
 
-2. **[House Price Prediction](https://github.com/abinashpradhan01/HOUSE_PRICE_PREDICTION)**
+2. **[House Price Prediction](https://github.com/abinashpradhan01/ML_Projects/tree/main/Predict_House_Price)**
    - A robust machine learning application that predicts house prices using both custom and scikit-learn linear regression models.
      - Interactive Streamlit web application for easy interaction
      - Automatic downloading and preprocessing of housing data
