@@ -47,6 +47,17 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
    - Technologies: Python, Scikit-learn, Streamlit
    - [Live Demo](https://mlprojects-84fctxn26daoh28s6ueieg.streamlit.app/)
 
+2. **[House Price Prediction](https://github.com/abinashpradhan01/HOUSE_PRICE_PREDICTION)**
+   - A robust machine learning application that predicts house prices using both custom and scikit-learn linear regression models.
+     - Interactive Streamlit web application for easy interaction
+     - Automatic downloading and preprocessing of housing data
+     - Comprehensive error management and user feedback
+     - Feature importance visualization to see impactful features
+     - View model performance statistics (R², RMSE, MSE)
+   - Technologies: Python, NumPy, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn
+   - [Live Demo](https://predicthousprice.streamlit.app/)
+
+
 ### 🎓 Education & Certifications
 - **DeepLearning.AI Specializations**
   - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/V27D0D3EE4HJ)
