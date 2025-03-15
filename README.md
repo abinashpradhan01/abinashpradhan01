@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Abinash Pradhan  
 
-I am in love with Machine Learning, so I am pursuing it—though I came across it as happenstance.
+I am passionate about Machine Learning and actively pursuing it to build innovative solutions that make a difference.
 
 ---
+
+### 🎯 What I Do
+- 🤖 Develop Machine Learning models and AI applications
+- 📊 Create data visualization and analysis solutions
+- 🌐 Build web applications with modern frameworks
+- 💡 Transform complex data into actionable insights
 
 ### 🛠 Tech Stack
 
@@ -29,19 +35,23 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
-#### **Data Structures and Algorithms**
-[![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat)](#)  
-*(Link to be added)*
 
----
+### 🚀 My Projects
 
-### 🌟 Building
-- **Machine Learning Projects**: Leveraging frameworks like PyTorch, TensorFlow, and Scikit-learn.
-- **Web Applications**: Using Flask, Streamlit, and PHP.
-- **Data Analysis**: Utilizing NumPy, Pandas, and Seaborn for insightful analysis.
+1. **[Iris Flower Classification](https://github.com/abinashpradhan01/IRIS_FLOWER_CLASSIFICATION)**
+   - A machine learning solution for classifying Iris flowers using:
+     - K-Nearest Neighbors (KNN) for classification
+     - Decision Tree for feature importance
+     - Real-time predictions via Streamlit
+     - Model evaluation and visualization
+   - Technologies: Python, Scikit-learn, Streamlit
+   - [Live Demo](https://mlprojects-84fctxn26daoh28s6ueieg.streamlit.app/)
 
----
-
+### 🎓 Education & Certifications
+- **DeepLearning.AI Specializations**
+  - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/V27D0D3EE4HJ)
+  - Deep Learning Specialization
+  - Natural Language Processing Specialization
 
 ### 📈 GitHub Stats & Streak:
 
@@ -62,14 +72,18 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 
 ---
 
-### 🤝 Connect with Me
-- 💼 [LinkedIn](https://in.linkedin.com/in/abinash-pradhan-a42157297)
-- ✉️ [Email](mailto:teamap13@gmail.com)
-- 🌐 **Website**: *(Coming Soon)*
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abinash-pradhan-a42157297)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamap13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abinashpradhan01.github.io)
 
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Coming Soon!
+<!-- BLOG-POST-LIST:END -->
 
-### 💻 Projects
+---
 
-- **[Project Name](source-code-link)**  
-  *Brief description of the project.*  
-  [Live Demo](live-link)
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to connect with me for collaborations or discussions.</i>
+</p>
