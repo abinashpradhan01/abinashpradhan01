@@ -36,6 +36,8 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
 
+
+
 ### 🚀 My Projects
 
 1. **[Iris Flower Classification](https://github.com/abinashpradhan01/ML_Projects/tree/main/IRIS_FLOWER_CLASSIFICATION)**
@@ -56,6 +58,16 @@ I am in love with Machine Learning, so I am pursuing it—though I came across i
      - View model performance statistics (R², RMSE, MSE)
    - Technologies: Python, NumPy, Pandas, Scikit-learn, Streamlit, Matplotlib, Seaborn
    - [Live Demo](https://predicthousprice.streamlit.app/)
+
+3. **[Customer Churn Prediction](https://github.com/abinashpradhan01/ML_Projects/tree/main/Customer_churn_prediction)**
+   - A machine learning application that predicts customer churn in a telecom company using both custom-implemented and scikit-learn logistic regression models.
+     - Comparative analysis of custom and Scikit-learn models
+     - Real-time predictions through an interactive Streamlit web interface
+     - Performance evaluation and model accuracy comparison
+   - Technologies: Python, Scikit-learn, Streamlit, Logistic Regression
+   - [Live Demo](https://customerchur.streamlit.app/)
+
+
 
 
 ### 🎓 Education & Certifications
