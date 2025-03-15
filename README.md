@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abinash Pradhan  
 
-I am passionate about Machine Learning and actively pursuing it to build innovative solutions that make a difference.
+I am in love with Machine Learning, so I am pursuing it—though I came across it as happenstance.
 
 ---
 
